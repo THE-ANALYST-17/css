@@ -1,0 +1,125 @@
+ /* body{
+
+     background: rgb(52, 179, 52);
+ }
+
+ h1{
+     background: white;
+     color:rebeccapurple;
+     font-size: 30px;
+     text-transform: uppercase;
+ }
+ p{
+     
+     font-size:20px;
+     color:rgb(151, 45, 45);
+ }
+ h2{
+     font-size: 24px;
+     color: #6b126b;
+ }
+ a{
+     text-decoration: unset;
+ }
+ h2{
+     color:blue;
+ }
+  */
+
+
+
+
+  /* .header p{
+      color:lightblue;
+  } */
+  /* #info{
+      background:darkgray;
+      color:black;
+  } */
+  /* #info p{
+      color:red;
+  } */
+  /* .header{
+      background:powderblue;
+      color:white;
+  } */
+  /* div{
+      background: red;
+      color: white;
+  } */
+  /* div{
+      background: coral !important;
+  } */
+ /* #box{
+     margin: 30px;
+     padding: 10px;
+     border:2px solid black;
+     height:200px;
+     width:200px;
+     overflow:scroll;
+     display: inline-block;
+ } */
+ /* #box-two{
+     margin: 30px;
+     padding:10px;
+     border:2px dashed black;
+     height:200px;
+     width:200px;
+     overflow:scroll;
+     display: inline-block;
+
+
+ } */
+ /* body{ */
+     /* background-image:url(./IMG_20150801_200254.JPG); */
+      /* background-repeat: no-repeat; 
+     background-size: 100% 100%; */
+    
+ 
+ .box{
+    margin: 30px;
+    padding: 10px;
+    border:2px solid black;
+    height:200px;
+    width:200px;
+    display: inline-block;
+    background-image: url(./IMG_20150801_200254.JPG); 
+    background-repeat: no-repeat; 
+    background-size: 100% 100%;
+ }
+  
+ 
+ .box h3{
+     margin-top: 0px;
+     margin-bottom: 0px;
+     text-align: center;
+
+ }
+ .box p{
+     text-align: justify;
+     letter-spacing: 1px;
+     word-spacing: 2px;
+     height: 160px;
+      overflow:scroll;
+   
+ }
+ img{
+     opacity:0.5;
+ }
+ img:hover{
+     opacity:1;
+ }
+ .box::-webkit-scrollbar{
+    display:none;
+ }
+   .box:hover{
+    margin: 4px;
+    padding: 20px;
+    border:2px solid brown;
+    height:300px;
+    width:300px;
+    background-repeat: no-repeat; 
+     background-size: 100% 100%; 
+
+
+ }  
